@@ -12,5 +12,5 @@ files {
     'ui/index.html',
     'ui/style.css',
     'ui/default.mp4',
+    'ui/music.mp3',
 }
-
