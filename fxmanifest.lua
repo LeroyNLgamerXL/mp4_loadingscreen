@@ -2,7 +2,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'Mailar#6308'
+author 'LeroyNLgamerXL'
 description 'mp4_loadingscreen'
 version '1.0.0'
 
